@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on game projects in the [Unity Game Engine](https://unity.com/)
-- 🌱 I’m currently learning C++
-- 📫 How to reach me: [Send me a DM on Twitter](https://twitter.com/messages/compose?recipient_id=1226967074024624129)
+- 🔭 I’m currently working on projects involving [Duck Simulator](https://ducksimulator.com/) and [Club Penguin Imagined](https://www.cpimagined.net/)
+- 🌱 I’m currently learning C# dependency injection
+- 📫 How to reach me: message me on Discord `@ermilburn02`
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm Transgender🏳️‍⚧️
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ermilburn02&theme=aura)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ermilburn02&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ermilburn02&theme=aura)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ermilburn02&theme=aura)
