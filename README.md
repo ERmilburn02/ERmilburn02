@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on projects involving [Duck Simulator](https://ducksimulator.com/) and [Club Penguin Imagined](https://www.cpimagined.net/)
-- 🌱 I’m currently learning C# dependency injection
+- 🔭 I’m currently working on OGAv2
+- 🌱 I’m currently learning OAuth2
 - 📫 How to reach me: message me on Discord `@ermilburn02`
 - 😄 Pronouns: She/Her
 
